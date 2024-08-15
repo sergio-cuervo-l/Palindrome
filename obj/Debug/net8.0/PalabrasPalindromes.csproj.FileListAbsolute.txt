@@ -1,0 +1,14 @@
+D:\Para Trabajar\RetosMoure\PalabraPalindrome\PalabrasPalindromes\obj\Debug\net8.0\PalabrasPalindromes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Para Trabajar\RetosMoure\PalabraPalindrome\PalabrasPalindromes\obj\Debug\net8.0\PalabrasPalindromes.AssemblyInfoInputs.cache
+D:\Para Trabajar\RetosMoure\PalabraPalindrome\PalabrasPalindromes\obj\Debug\net8.0\PalabrasPalindromes.AssemblyInfo.cs
+D:\Para Trabajar\RetosMoure\PalabraPalindrome\PalabrasPalindromes\obj\Debug\net8.0\PalabrasPalindromes.csproj.CoreCompileInputs.cache
+D:\Para Trabajar\RetosMoure\PalabraPalindrome\PalabrasPalindromes\bin\Debug\net8.0\PalabrasPalindromes.exe
+D:\Para Trabajar\RetosMoure\PalabraPalindrome\PalabrasPalindromes\bin\Debug\net8.0\PalabrasPalindromes.deps.json
+D:\Para Trabajar\RetosMoure\PalabraPalindrome\PalabrasPalindromes\bin\Debug\net8.0\PalabrasPalindromes.runtimeconfig.json
+D:\Para Trabajar\RetosMoure\PalabraPalindrome\PalabrasPalindromes\bin\Debug\net8.0\PalabrasPalindromes.dll
+D:\Para Trabajar\RetosMoure\PalabraPalindrome\PalabrasPalindromes\bin\Debug\net8.0\PalabrasPalindromes.pdb
+D:\Para Trabajar\RetosMoure\PalabraPalindrome\PalabrasPalindromes\obj\Debug\net8.0\PalabrasPalindromes.dll
+D:\Para Trabajar\RetosMoure\PalabraPalindrome\PalabrasPalindromes\obj\Debug\net8.0\refint\PalabrasPalindromes.dll
+D:\Para Trabajar\RetosMoure\PalabraPalindrome\PalabrasPalindromes\obj\Debug\net8.0\PalabrasPalindromes.pdb
+D:\Para Trabajar\RetosMoure\PalabraPalindrome\PalabrasPalindromes\obj\Debug\net8.0\PalabrasPalindromes.genruntimeconfig.cache
+D:\Para Trabajar\RetosMoure\PalabraPalindrome\PalabrasPalindromes\obj\Debug\net8.0\ref\PalabrasPalindromes.dll
